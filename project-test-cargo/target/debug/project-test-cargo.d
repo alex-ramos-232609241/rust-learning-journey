@@ -1,0 +1,1 @@
+C:\Users\SCORPION\Desktop\proyect-to-gitHub\rust-learning-journey\project-test-cargo\target\debug\project-test-cargo.exe: C:\Users\SCORPION\Desktop\proyect-to-gitHub\rust-learning-journey\project-test-cargo\src\main.rs
